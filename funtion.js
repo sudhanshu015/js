@@ -20,9 +20,9 @@
 //  console.log(Math.floor(-3.2))
 //  console.log(Math.floor(-8.2))
 //  console.log(Math.random()); // it is return rendom number between 0 to 1 
- console.log(Math.random(0,9)); // it is return rendom number between 0 to 1 
+ //console.log(Math.random(0,9)); // it is return rendom number between 0 to 1 
 //  let num= Math.floor(Math.random()*10)
 //  let num= Math.floor(Math.random()*11)
 //  console.log(num)
- let num= Math.floor(-10+Math.random()* 21)
- console.log(num)
+//let num= Math.floor(-10+Math.random()* 21)
+ //console.log(num)
